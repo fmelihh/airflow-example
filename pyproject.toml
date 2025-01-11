@@ -6,7 +6,8 @@ authors = ["Furkan Melih Ercan <furkan.ercan@b2metric.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
+apache-airflow = "^2.10.4"
 
 
 [build-system]
