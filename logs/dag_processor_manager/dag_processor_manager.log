@@ -717,3 +717,167 @@ File Path                                    PID    Runtime      # DAGs    # Err
 /opt/airflow/dags/create_dag_with_python.py                           1           0  0.09s           2025-01-11T22:51:17                      12
 /opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:51:28                      12
 ================================================================================
+[2025-01-11T22:51:42.458+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-01-11T22:51:42.465+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2025-01-11T22:52:08.828+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.11s           2025-01-11T22:51:47                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:51:58                      12
+================================================================================
+[2025-01-11T22:52:39.164+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.07s           2025-01-11T22:52:17                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.06s           2025-01-11T22:52:29                      12
+================================================================================
+[2025-01-11T22:53:09.576+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.10s           2025-01-11T22:52:48                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.09s           2025-01-11T22:52:59                      12
+================================================================================
+[2025-01-11T22:53:39.888+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.11s           2025-01-11T22:53:18                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:53:29                      12
+================================================================================
+[2025-01-11T22:54:10.227+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.22s           2025-01-11T22:53:49                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.05s           2025-01-11T22:54:00                      12
+================================================================================
+[2025-01-11T22:54:40.603+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.08s           2025-01-11T22:54:19                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:54:30                      12
+================================================================================
+[2025-01-11T22:55:10.908+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.08s           2025-01-11T22:54:49                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.05s           2025-01-11T22:55:00                      12
+================================================================================
+[2025-01-11T22:55:41.248+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.11s           2025-01-11T22:55:20                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.06s           2025-01-11T22:55:31                      12
+================================================================================
+[2025-01-11T22:56:11.561+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.11s           2025-01-11T22:55:50                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.09s           2025-01-11T22:56:01                      12
+================================================================================
+[2025-01-11T22:56:41.912+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.15s           2025-01-11T22:56:20                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:56:31                      12
+================================================================================
+[2025-01-11T22:56:42.946+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2025-01-11T22:56:42.967+0000] {manager.py:824} INFO - There are 3 files in /opt/airflow/dags
+[2025-01-11T22:57:12.386+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.09s           2025-01-11T22:56:51                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:57:02                      12
+/opt/airflow/dags/dag_worflow_api.py                                  0           0  0.05s           2025-01-11T22:57:11                       3
+================================================================================
+[2025-01-11T22:57:42.770+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.09s           2025-01-11T22:57:32                      12
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.08s           2025-01-11T22:57:21                      12
+/opt/airflow/dags/dag_worflow_api.py                                  0           0  0.03s           2025-01-11T22:57:22                       3
+================================================================================
+[2025-01-11T22:58:13.200+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_worflow_api.py                                  1           0  0.27s           2025-01-11T22:57:53                      45
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.10s           2025-01-11T22:58:03                      12
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.10s           2025-01-11T22:57:51                      12
+================================================================================
+[2025-01-11T22:58:43.603+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.08s           2025-01-11T22:58:22                      12
+/opt/airflow/dags/dag_worflow_api.py                                  1           0  0.07s           2025-01-11T22:58:23                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T22:58:33                      12
+================================================================================
+[2025-01-11T22:59:14.105+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.36s           2025-01-11T22:59:04                      12
+/opt/airflow/dags/dag_worflow_api.py                                  1           0  0.18s           2025-01-11T22:58:53                      12
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.07s           2025-01-11T22:58:52                      12
+================================================================================
+[2025-01-11T22:59:44.845+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.14s           2025-01-11T22:59:23                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.12s           2025-01-11T22:59:34                      12
+/opt/airflow/dags/dag_worflow_api.py                                  0           1  0.06s           2025-01-11T22:59:25                       3
+================================================================================
+[2025-01-11T23:00:15.248+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_worflow_api.py                                  1           0  0.30s           2025-01-11T22:59:49                      34
+/opt/airflow/dags/create_dag_with_python.py                           1           0  0.08s           2025-01-11T22:59:54                      12
+/opt/airflow/dags/our_first_dag.py                                    1           0  0.07s           2025-01-11T23:00:05                      12
+================================================================================
